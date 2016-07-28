@@ -1,0 +1,60 @@
+body{
+background-color: #d3d3d3;
+}
+
+
+.webbased{
+margin-left:50px;
+margin-top:50px;
+}
+
+.container{
+width:100%;
+margin-left: 10%;
+margin-right: 10%;
+background-color: #4d4d4d;
+}
+
+.webcontent{
+float:left;
+width: 100%;
+}
+.remote{
+margin-left:50px;
+float:left;
+width:50%;
+background-color: #ffffff;
+padding: 20px;
+border-radius: 20px;
+}
+
+.efficiency{
+margin-left:50px;
+float:left;
+width:50%;
+}
+
+.solutions{
+margin-top:12%;
+margin-left:50px;
+width:50%;
+}
+
+.last{
+margin-left:50px;
+float:left;
+width:50%;
+}
+
+.webaside_right{
+float:left;
+margin-left: 50px;
+background-color: #ffffff;
+padding: 20px;
+border-radius: 20px;
+
+}
+.images{
+text-align:center;
+}
+.menu{}

@@ -1,0 +1,81 @@
+body
+{
+background-color:#d3d3d3;
+}
+.back{
+background-image:url('new blue.jpg');
+}
+
+
+.logo{
+margin-left:20%;;
+}
+
+.menucard ul li{
+float: left;
+margin-right: 20px;
+list-style: none;
+}
+.menucard ul{
+margin-left:40%;
+margin-top:-3%;
+color:white;
+}
+
+.hi{
+background-color:#ffffff;
+margin-left:20%;
+margin-top:5%;
+width:50%;
+padding:20px;
+border-radius:20px;
+padding-top:5%;
+padding-bottom:5%;
+padding-left:2%;
+padding-right:2%;
+}
+.heading1{
+margin-top:-10%;
+}
+.head{
+width:50%;
+float:left;
+margin-left:50px;
+}
+.img_content{
+margin-top:25px;
+}
+.suresh_photo{
+width:10%;
+float:left;
+}
+.suresh_photo img{
+width:100px;
+height:100px;
+}
+.suresh_history{
+margin-left:150px;
+margin-bottom:10px;
+}
+
+}
+.third_heading{
+margin-top:25px;
+}
+
+.kashif_photo{
+width:10%;
+float:left;
+}
+.kashif_photo img{
+width:100px;
+height:100px;
+}
+.kashif_history{
+margin-left:150px;
+margin-bottom:10px;
+}
+
+
+
+

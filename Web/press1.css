@@ -1,0 +1,23 @@
+body
+{
+
+background-color:gray;
+}
+
+.whole{
+margin-top:10%;
+
+width:100%;
+margin-left: 15%;
+margin-right: 10%;
+background-color: #white;
+}
+
+.App{
+margin-left:50px;
+float:left;
+width:50%;
+background-color: #ffffff;
+padding: 20px;
+border-radius: 20px;
+}

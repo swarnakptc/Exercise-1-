@@ -1,0 +1,53 @@
+<html>
+<head>
+
+</head>
+
+<body>
+
+
+<h1><center>welcome to the nature</center></h1>
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+<h2 id="demo"></h2>
+
+
+
+
+<form action="action_page.php">
+<fieldset>
+<legend>Personal information</legend>
+ firstname:<br>
+<input type="text" name="firstname" value="ram" readonly><br>
+last name:<br>
+<input type="text" name="lastname"><br>
+<input type="submit" value="submit"><br>
+</fieldset>
+<input type="radio" name="gender" value="male" checked> male <br>
+<input type="radio" name="gender" value="female">female<br>
+<input type="radio" name="gender" value="other">other<br>
+<select name="fruits">
+<option value="mango">mango</option>
+<option value="apple" selected>apple</option>
+<option value="orange">orange</option>
+</select>
+<br>
+<textarea name="message" rows="10" cols="30">
+hi how are you? iam fine....
+</textarea>
+<br>
+<button type="button" onclick="alert('hello')"> click me</button>
+<br>
+Username:  <input type="text" name="user">
+ <br><br>
+Encryption:  <keygen name="security"> 
+<br><br>
+birthday datetime: local
+<input type="datetime-local" name="bdaytime">
+<input type="submit" value="send">
+</form>
+
+
+</body>
+</html>

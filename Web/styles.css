@@ -1,0 +1,113 @@
+   
+   body
+  {
+ background-color: powderblue;
+ font-family: verdana;
+ font-style: italic;
+  }
+   p
+   {
+ border: 5px solid red; 
+ }
+ h1
+ {
+ font-family:sansserif;
+ text-align: center;
+ text-transform:uppercase;
+ }
+ a:link
+  {
+ background-color: red;
+ color:white;
+ text-align: center;
+ padding: 20px;
+ display: inline-block;
+ }
+ a:hover
+ {
+ color:green;
+ }
+ 
+ ul
+ {
+ border:1px solid black;
+  outline-color:green;
+  outline-style: double;
+ list-style-type: square;
+  }
+ ol
+ {
+ list-style-type: upper-roman;
+ background-color: yellow;
+ padding: 5px;
+ margin-left: 35px;
+ }
+  
+  table, td, th{
+  border:1px solid black ;
+  }
+  table {
+ border-collapse: collapse;
+ width:100px;
+ }
+ th
+ {
+height:20px;
+} 
+div
+{
+  background-color:yellow;
+  width:100px;
+  height:100px;
+  overflow: auto;
+  }
+  ul{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background-color: black;
+  }
+  li{
+  float: left;
+  display: inline-block;
+  color: white;
+  text-align:center;
+  padding:14px 16px;
+  text-decoration:none;
+  }
+  
+   p
+  {
+  display: none;
+  background-color:green;
+  padding:20px;
+  }
+  div:hover p {
+  display: block;
+  }
+  
+  img
+  {
+  opacity:0.5;
+  filter: alpha(opacity=50);
+  }
+  img:hover
+  {
+  opacity=1.0;
+  filter: alpha(opacity=100);
+  }
+  div.background{
+  background:url(images3.jpg) repeat;
+  border:2px solid black;
+  }
+  div.transbox{
+  margin:30px;
+  background-color:red;
+  border:1px solid black;
+  opacity: 0.6;
+  filter:alpha(opacity=60);
+  }
+ div.transbox  p { 
+ margin:5%;
+ font-weight: bold;

@@ -1,0 +1,35 @@
+.logo{
+margin-left: 50px;
+}
+.main_menu ul li {
+float: left;
+margin-right: 20px;
+list-style: none;
+}
+.main_menu ul{
+margin-left: 300px;
+margin-top: -38px;
+}
+.banner{
+margin-top: 50px;
+}
+.fornt_heading{
+text-align: center;
+margin-bottom: 70px;
+color: blue;
+}
+.content{
+width: 70%;
+float: left;
+}
+.aside_left  img{
+width: 150px;
+height: 150px;
+float: left;
+margin-right: 10px;
+}
+.aside_right  img{
+width: 150px;
+height: 150px;
+float: left;
+}
